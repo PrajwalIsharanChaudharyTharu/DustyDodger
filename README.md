@@ -1,4 +1,4 @@
-# DustyDodger : Obstacle-Avoidance Vacuum Cleaner Car
+# DustyDodger : Arduino-Controlled Vacuum Cleaner
 
 ## Overview
 
